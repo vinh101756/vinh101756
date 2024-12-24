@@ -1,0 +1,6 @@
+xau= input()
+kq= xau.strip()
+kq= kq.lower()
+kq= ' '.join(kq.split())
+kq= kq.capitalize()
+print(kq)
